@@ -1,16 +1,16 @@
-# Operations-Research
-This assignment took place in the course "Operations-Research" of Aristotle University of Thessaloniki at 8th Semester. It contains two parts which described below.
+# Machine-Learning
+This assignment took place in the course "Machine-Learning" of Aristotle University of Thessaloniki at 8th Semester. It contains three parts which described below.
 
 ## :ledger: Description 
-Assignment's Presentation(only in Greek) : [here](Project_OR_2021.pdf)
 
 ### Part 1
-This part implements a case of the known problem VRP(Vehicle Routing Problem).
+This part focused on utilizing iPython Notebooks, basic numpy and pandas functions, building a linear model from scratch, and employing basic functions of scikit-learn.
 
 ### Part 2
-This part implements a simple case of TSP Problem.
+This part involved using the scikit-learn library to train a model from scratch and understanding decision trees.
 
-
+### Part 3
+This part tested understanding of Ensemble Methods
 
 ##  :wrench: Development
 The files of the assignment were created with conda 4.10.1.
